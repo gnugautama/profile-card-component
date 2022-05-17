@@ -41,10 +41,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 This is how I set the background image:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
 ```css
 body {
   background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
