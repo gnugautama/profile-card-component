@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  text-align: center;
+  background-color: hsl(185, 75%, 39%);
+}
+
+h2,
+p {
+  font-size: 18px;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.img-header img {
+  object-fit: cover;
+}
+
+.profile-pict {
+  margin-top: -30px;
+  border: 5px solid white;
+  border-radius: 50%;
+}
+
+.profile-pict img {
+  border-radius: 50%;
+  width: 110px;
+}
+
+span {
+  color: hsl(0, 0%, 59%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #fff;
+}
+.attribution a {
+  color: hsl(229, 50%, 84%);
+}
