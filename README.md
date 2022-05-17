@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-profile-card-HyvLv3lv9)
-- Live Site URL: [Add live site URL here](https://profile-card-component-0c2a04.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-profile-card-HyvLv3lv9)
+- Live Site URL: [Live Site](https://profile-card-component-0c2a04.netlify.app/)
 
 ## My process
 
