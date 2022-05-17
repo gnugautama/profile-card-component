@@ -6,8 +6,8 @@ body {
   font-family: "Kumbh Sans", sans-serif;
   text-align: center;
   background-color: hsl(185, 75%, 39%);
-  background-image: url("./images/bg-pattern-bottom.svg"), url("./images/bg-pattern-top.svg");
-  background-position: top right, bottom left;
+  background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+  background-position: -88% 128%, 156% -80%;
   background-repeat: no-repeat, no-repeat;
 }
 
@@ -46,4 +46,10 @@ span {
 }
 .attribution a {
   color: hsl(229, 50%, 84%);
+}
+
+@media only screen and (max-widht: 768px) {
+  body {
+    background-position: 132% 132%, 17% -79%;
+  }
 }
